@@ -30,7 +30,7 @@
 include sources.mk
 
 # Architecture Specific Flags
-CPU = cortex-m0plus
+CPU = cortex-m0pluss
 ARCH = thumb
 SPECS = nosys.specs
 
